@@ -1,16 +1,8 @@
-# Heading 1
+<param ve-config layout="vtl" title="Common Sunflower" banner="wc:Sunflower_in_Toole_County_MT_banner.jpg">
 
-## Heading 2
+# Common sunflower
 
-### Heading 3
+The **common sunflower** (_Helianthus annuus_) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food. They are also used in the production of cooking oil, as food for livestock, as bird food, and as plantings in domestic gardens for aesthetics. Wild plants are known for their multiple flower heads, whereas the domestic sunflower often possesses a single large flower head atop an unbranched stem.[^1]
+<param ve-image src="wc:Sunflower_sky_backdrop.jpg">
 
-You might remember learning about the myth of how the ancient city of Athens received its name. On top of the city’s acropolis, a legendary competition took place: Poseidon struck the ground to produce a spring of sea water while Athena gifted the people an olive tree. Although one was a grand display of power, the other’s strength lay in its enduring utility. The competition resulted in a clear victor, crowning Athena as the patron goddess of the city. Her gift of the tree would go on to be a living testament of her wisdom and insight as seen in not only its continuing presence in the city’s landscape, but also in the ubiquity of olives and olive oil globally to this day.
-
-- First item
-- Second item
-- Third item
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+[^1]: Wikipedia contributors. (2025, June 24). Common sunflower. In Wikipedia, The Free Encyclopedia. Retrieved 21:57, June 24, 2025, from [https://en.wikipedia.org/w/index.php?title=Common_sunflower](https://en.wikipedia.org/w/index.php?title=Common_sunflower&oldid=1297100912)
