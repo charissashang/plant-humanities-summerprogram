@@ -3,4 +3,4 @@
 
 ### History of Olive
 
-I want to italicize *this word.*
+*I want to italicize this word.*
