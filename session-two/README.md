@@ -14,5 +14,5 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 	   src="gc:charissashang/plant-humanities-summerprogram/main/session-two/amphora_met_obverse.jpg"
 	   caption="Panathenaic amphora">
 <param ve-compare
-	   src="gc:charissashang/plant-humanities-summerprogram/blob/main/session-two/amphora_met_reverse.jpg>
+	   src="gc:charissashang/plant-humanities-summerprogram/main/session-two/amphora_met_reverse.jpg>
 	   
