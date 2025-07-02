@@ -10,6 +10,9 @@ layout="vertical">
 
 ### Introduction
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
-<param ve-image
-	   src="gh:charissashang/plant-humanities-summerprogram/main/session-two/amphora_britishmuseum.jpg"
-	   caption="This is an image of a panathenaic amphora.">
+<param ve-compare
+	   src="gc:charissashang/plant-humanities-summerprogram/main/session-two/amphora_met_obverse.jpg"
+	   caption="Panathenaic amphora">
+<param ve-compare
+	   src="gc:charissashang/plant-humanities-summerprogram/blob/main/session-two/amphora_met_reverse.jpg>
+	   
