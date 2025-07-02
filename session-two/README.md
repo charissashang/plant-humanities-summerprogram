@@ -9,10 +9,13 @@ author="Charissa Shang"
 layout="vertical">
 
 ### Introduction
-This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+This is a filler paragraph.[^1] This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
 <param ve-compare
 	   src="gh:charissashang/plant-humanities-summerprogram/main/session-two/amphora_met_obverse.jpg"
 	   caption="Panathenaic amphora">
 <param ve-compare
 	   src="gh:charissashang/plant-humanities-summerprogram/main/session-two/amphora_met_reverse.jpg">
 	   
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph.
+
+[^1]: this is the first footnote for the document.
