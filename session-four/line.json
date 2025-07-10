@@ -3,7 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1
+      },
       "geometry": {
         "coordinates": [
           [
@@ -16,6 +20,29 @@
           ]
         ],
         "type": "LineString"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          16.219902726106994,
+          41.15768410712383
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -119.75661010537377,
+          36.58715322645547
+        ],
+        "type": "Point"
       }
     }
   ]
