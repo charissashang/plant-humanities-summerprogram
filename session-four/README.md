@@ -13,9 +13,30 @@ This is a filler paragraph. This is a filler paragraph. This is a filler paragra
 <param ve-map
 	   center="42.14,18.00"
 	   zoom="6"
-	   cation="This is the region Apulia of Italy.">
+	   caption="This is the region Apulia of Italy.">
 	   
 This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. Use wikidata. to find the QID if you dont want to use the coordinates.
-<param ve-map prefer Geojson
-	   center=
+<param ve-map prefer-geojson
+	   center="40.846,16.677"
+	   zoom="6"
+	   caption="This is the region Apulia of Italy.">   
+<param ve-map-layer geojson
+	   url="https://raw.githubusercontent.com/charissashang/plant-humanities-summerprogram/main/session-four/map.json"
+	   show-labels
+	   stroke-width="0">
+<param ve-map-marker
+	   url="wc:Olivenhain_mit_Xylella_fastidiosa_bei_Surano_LE_190710.jpg"
+	   coords="42.269,17.387"
+	   circle="true">
+	   
+This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. This is a filler paragraph. Use wikidata. to find the QID if you dont want to use the coordinates.
+<param ve-map prefer-geojson
+	   center="40.846,16.677"
+	   zoom="3"
+	   caption="This is the region Apulia of Italy.">   
+<param ve-map-layer geojson
+	   url="https://raw.githubusercontent.com/charissashang/plant-humanities-summerprogram/main/session-four/line.json"
+	   show-labels
+	   stroke-width="0">
+	   
 	   
