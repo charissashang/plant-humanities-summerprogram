@@ -23,7 +23,7 @@ layout="vertical">
 ### Sacred Landscapes
 You might recall learning about the myth of how the ancient city of Athens received its name. On top of the city’s acropolis, a legendary competition unfolded: Poseidon struck the ground to summon a spring of seawater, while Athena gifted the people an olive tree. Although one was a grand display of power, the other’s strength lay in its enduring utility. The competition resulted in a clear victor, crowning Athena as the patron goddess of the city. Her gift of the olive became a living testament to her wisdom, seen today in the continued presence of olives in Athens’ landscape and their ubiquity worldwide.
 <param ve-image
-	   src="gh:charissashang/plant-humanities-summerprogram/main/olive/erechtheion.redcircle.jpg"
+	   src="gh:charissashang/plant-humanities-summerprogram/main/olive/erechtheion.jpg"
 	   caption="Section and plan of the Erectheion. Circled in red is where the sacred olive tree was located.">
 
 While this mythic contest may be the most celebrated story of the olive tree in antiquity, the olive makes an often forgotten, yet no less significant, appearance in Homer’s Odyssey--an appearance that reveals the overlooked and deeply ideological symbol of the olive. After many trials and a long journey, Odysseus finally returns to his home Ithaca in Book 13. Homer describes the initial view of the island:
