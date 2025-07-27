@@ -2,8 +2,8 @@
 
 <param ve-config 
 title="Olive: Pressing Matters in the Eastern Mediterranean Landscapes"    
-source-image="https://upload.wikimedia.org/wikipedia/commons/8/86/Air_Olive_1.JPG"   
-banner="https://upload.wikimedia.org/wikipedia/commons/8/86/Air_Olive_1.JPG" 
+source-image="https://upload.wikimedia.org/wikipedia/commons/f/fb/1889_van_Gogh_Women_picking_olives_anagoria.JPG"   
+banner="https://upload.wikimedia.org/wikipedia/commons/f/fb/1889_van_Gogh_Women_picking_olives_anagoria.JPG" 
 height=100
 author="Charissa Shang"
 layout="vertical">
@@ -24,7 +24,7 @@ layout="vertical">
 You might recall learning about the myth of how the ancient city of Athens received its name. On top of the city’s acropolis, a legendary competition unfolded: Poseidon struck the ground to summon a spring of seawater, while Athena gifted the people an olive tree. Although one was a grand display of power, the other’s strength lay in its enduring utility. The competition resulted in a clear victor, crowning Athena as the patron goddess of the city. Her gift of the olive became a living testament to her wisdom, seen today in the continued presence of olives in Athens’ landscape and their ubiquity worldwide.
 <param ve-image
 	   src="gh:charissashang/plant-humanities-summerprogram/main/olive/erechtheion_withcircle.jpg"
-	   caption="Section and plan of the Erectheion. Circled in red is where the sacred olive tree was located.">
+	   caption="Section and plan of the Erectheion. Circled in red is where the sacred olive tree was located. By Beule, Charles Ernest. L'Acropole d'Athènes (Band 2) — Paris, 1854. https://doi.org/10.11588/diglit.665#0394.">
 
 While this mythic contest may be the most celebrated story of the olive tree in antiquity, the olive makes an often forgotten, yet no less significant, appearance in Homer’s Odyssey--an appearance that reveals the overlooked and deeply ideological symbol of the olive. After many trials and a long journey, Odysseus finally returns to his home Ithaca in Book 13. Homer describes the initial view of the island:
 >At the harbor’s head a branching olive stands
@@ -32,5 +32,7 @@ While this mythic contest may be the most celebrated story of the olive tree in 
 >with a welcome cave nearby it, dank with sea-mist,
 >
 >sacred to nymphs of the springs we call the Naiads.
+<param ve-image
+	   src="gh:
 
                                 
